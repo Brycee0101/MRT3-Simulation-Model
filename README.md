@@ -24,6 +24,7 @@ While the initial simulation results show promising outcomes, we acknowledge tha
 ## Technologies Used
 <img align="left" alt="JAVA" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="PYTHON" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="JUPYTER" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
 <br><br><br>
 
 ## ⬇️ Installation
